@@ -2,7 +2,7 @@
 
 I've been volunteering at my local food pantry for almost a decade at this point. 
 
-Over the years, I've found opportunities to tackle some of the technical challenges we've faced. I've uploaded a few of my solutions.
+Over the years, I've found opportunities to tackle some of the technical challenges we've faced.
 
 ## nc.ipynb and fb.ipynb: Ingesting data from local food bank
 
