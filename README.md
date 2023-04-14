@@ -4,11 +4,7 @@ Hi!
 
 I've been volunteering at my local food pantry for almost a decade at this point. 
 
-Over the years, I've found opportunities to tackle some of the technical challenges we've been facing by applying some of the techniques I learned at UChicago. I've uploaded a few of them.
-
-## drivers.py: Driver delivery routes
-
-Every Tuesday we deliver food to clients who are unable to come to us. Previously creating driver delivery routes was a manual process that involved a map of our town, a whiteboard marker, and twenty minutes of planning each week. This the goal of this tool was to completely eliminate that.
+Over the years, I've found opportunities to tackle some of the technical challenges we've faced. I've uploaded a few of my solutions.
 
 ## nc.ipynb and fb.ipynb: Ingesting data from local food bank
 
@@ -31,3 +27,9 @@ Originally we used to record and label every pound of food as we receieved it on
 After talking to LS, they were willing to send us their records each month of what they bring to us in a PDF. 
 
 This tool ingests the data from this PDF, categorizes all the appropriate output, and outputs in the format that we reuse for all of our reports, saving over an hour of time each month.
+
+## drivers.py: Producing driver delivery routes
+
+Every Tuesday we deliver food to clients who are unable to come to us. Previously creating driver delivery routes was a manual process that involved a map of our town, a whiteboard marker, and twenty minutes of planning each week. 
+
+This tool completely replaced the need for that process, saving over an hour of time on a tedious process each month.
