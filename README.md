@@ -12,7 +12,7 @@ We receive food from our local food bank denoted FB twice a month, averaging ~40
 
 Originally we used to manually input every single item we ordered seperately, record all of the associated data with that item, and deal with it later for our monthly reports.
 
-First, I developed a tool (nc.ipynb) to automatically intake all the order data from FB's website and output it in a format for later transformation. This was successfully used for two years, saving an hour of work every month minimum.
+First, I developed a tool (nc.ipynb) to automatically intake all the order data from FB's website and output it in a format for later transformation. This was successfully used for two years, saving about an hour of work every month.
 
 Recently, I developed another tool (fb.ipynb) to automatically categorize all of our purchases into categories and product types based on a central database. This was a process that we had to do before manually with no database, which led to inconsistent results from month to month. 
 
